@@ -10,7 +10,7 @@ The dashboard displays several key metrics and visualizations, including:
 - **Cardiovascular Diseases Death Rate in Egypt**: Shows the percentage of deaths in Egypt attributed to cardiovascular diseases.
 - **Cardiovascular Diseases Death by Country**: A world map visualizing death rates from cardiovascular diseases across different countries.
 - **Count of Features by Heart Disease Status**: A bar chart showing the count of various health features like high blood pressure, high cholesterol, and physical activity, in relation to heart disease status.
-- **Death Rate in Women and Men by Entity and Year**: A scatter plot comparing death rates between women and men by entity (country) and over time (from 1950 t0 2021).
+- **Death Rate in Women and Men by Entity and Year**: A scatter plot comparing death rates between women and men by entity (country) and over time (from 1950 to 2021).
 - **Number of Deaths from Cardiovascular Diseases by Type**: A line chart illustrating the number of deaths from different types of cardiovascular diseases over time.
 
 ## Data Sources
